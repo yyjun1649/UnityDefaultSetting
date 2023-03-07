@@ -7,3 +7,4 @@
 
 ### Default(2)
 Addressable 사용 (비동기식 Resource 로드)
+- 수정중
