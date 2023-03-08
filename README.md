@@ -1,7 +1,7 @@
 # UnityDefaultSetting
 
 
-### Default(1)
+### Default(1) - Default(1).unitypackage
 일반적인 동기식 Resource 로드
 
 
